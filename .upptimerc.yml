@@ -1,29 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: aceblockID # Your GitHub organization or username, where this repository lives
+repo: monitoring # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: AceBlock Homepage
+    url: https://www.aceblock.com/
+  - name: AceBlock SSI - RPC endpoint
+    method: POST
+    url: https://ssi.aceblock.com/rpc
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": 0 }'
+  - name: AceBlock SSI - IPFS endpoint
+    url: https://ssi.aceblock.com/ipfs-api/api/v0/version
+  - name: AceBlock Documentation
+    url: https://ssi.aceblock.com/docs/
+  - name: AceBlock Swagger UI
+    url: https://swagger.aceblock.com/
+  - name: Load balancer Gen-I
+    check: "tcp-ping"
+    url: 91.240.216.122
+    port: 443
+  - name: Load balancer SSI
+    check: "tcp-ping"
+    url: 91.240.216.129
+    port: 443
+  - name: Load balancer T4
+    check: "tcp-ping"
+    url: 91.240.216.115
+    port: 443	
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /aceblock-monitoring
+  logoUrl: https://www.aceblock.com/wp-content/uploads/2019/07/cropped-favicon2-32x32.png
+  name: AceBlock Upptime Services Monitoring
+  introTitle: "**AceBlock** status page"
   navbar:
+    - title: AceBlock
+      href: https://aceblock.com
     - title: Status
-      href: /
+      href: /aceblock-monitoring/
+    - title: Issues
+      href: https://github.com/aceblockID/monitoring/issues
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
