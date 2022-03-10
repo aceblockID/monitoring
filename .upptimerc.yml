@@ -41,7 +41,7 @@ status-website:
     - title: AceBlock
       href: https://aceblock.com
     - title: Status
-      href: /aceblock-monitoring/
+      href: /monitoring/
     - title: Issues
       href: https://github.com/aceblockID/monitoring/issues
     - title: GitHub
