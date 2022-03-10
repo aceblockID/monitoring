@@ -33,7 +33,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /aceblock-monitoring
+  baseUrl: /monitoring
   logoUrl: https://www.aceblock.com/wp-content/uploads/2019/07/cropped-favicon2-32x32.png
   name: AceBlock Upptime Services Monitoring
   introTitle: "**AceBlock** status page"
