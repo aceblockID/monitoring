@@ -4,19 +4,19 @@
     "url": "https://www.aceblock.com/",
     "icon": "https://favicons.githubusercontent.com/www.aceblock.com",
     "slug": "ace-block-homepage",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2682,
-    "timeDay": 2749,
-    "timeWeek": 2682,
-    "timeMonth": 2682,
-    "timeYear": 2682,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 2551,
+    "timeDay": 2388,
+    "timeWeek": 2551,
+    "timeMonth": 2551,
+    "timeYear": 2551,
     "dailyMinutesDown": {
-      "2022-03-13": 1
+      "2022-03-13": 12
     }
   },
   {
