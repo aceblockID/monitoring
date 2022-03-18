@@ -16,7 +16,7 @@ sites:
   - name: AceBlock Documentation
     url: https://ssi.aceblock.com/docs/
   - name: AceBlock Swagger UI
-    url: https://swagger.aceblock.com/
+    url: $ACEBLOCK_SWAGGER_UI
   - name: Load balancer Gen-I
     check: "tcp-ping"
     url: 91.240.216.122
