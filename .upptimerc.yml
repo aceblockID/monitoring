@@ -4,30 +4,30 @@ repo: monitoring # The name of this repository
 
 sites:
   - name: AceBlock Homepage
-    url: https://www.aceblock.com/
+    url: $ACEBLOCK_HOME
   - name: AceBlock SSI - RPC endpoint
     method: POST
-    url: https://ssi.aceblock.com/rpc
+    url: $ACEBLOCK_SSI_RPC
     headers:
       - "Content-Type: application/json"
     body: '{ "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": 0 }'
   - name: AceBlock SSI - IPFS endpoint
-    url: https://ssi.aceblock.com/ipfs-api/api/v0/version
+    url: $ACEBLOCK_SSI_IPFS
   - name: AceBlock Documentation
-    url: https://ssi.aceblock.com/docs/
+    url: $ACEBLOCK_SSI_DOCS
   - name: AceBlock Swagger UI
     url: $ACEBLOCK_SWAGGER_UI
   - name: Load balancer Gen-I
     check: "tcp-ping"
-    url: 91.240.216.122
+    url: $LB_GEN_I
     port: 443
   - name: Load balancer SSI
     check: "tcp-ping"
-    url: 91.240.216.129
+    url: $LB_SSI
     port: 443
   - name: Load balancer T4
     check: "tcp-ping"
-    url: 91.240.216.115
+    url: $LB_T4
     port: 443
 
 status-website:
