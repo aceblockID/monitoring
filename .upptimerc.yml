@@ -29,6 +29,17 @@ sites:
     check: "tcp-ping"
     url: $LB_T4
     port: 443
+  - name: AceBlock Mockup
+    url: $ACEBLOCK_MOCKUP
+  - name: AceBlock D-HUB
+    url: $ACEBLOCK_HUB
+  - name: AceBlock Meet
+    url: $ACEBLOCK_MEET
+  - name: AceBlock Redmine
+    url: $ACEBLOCK_REDMINE
+  - name: AceBlock Space Client
+    url: $ACEBLOCK_SPACE_CLIENT
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
