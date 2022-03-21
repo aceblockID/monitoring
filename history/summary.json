@@ -76,10 +76,10 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "97.97%",
-    "uptimeDay": "77.43%",
-    "uptimeWeek": "96.78%",
+    "uptimeDay": "77.39%",
+    "uptimeWeek": "96.77%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "97.97%",
     "time": 418,
@@ -88,7 +88,7 @@
     "timeMonth": 418,
     "timeYear": 418,
     "dailyMinutesDown": {
-      "2022-03-21": 326
+      "2022-03-21": 327
     }
   },
   {
@@ -169,18 +169,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-d-hub",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 573,
     "timeDay": 573,
     "timeWeek": 573,
     "timeMonth": 573,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2022-03-21": 646
+      "2022-03-21": 667
     }
   },
   {
@@ -236,7 +236,7 @@
     "timeMonth": 262,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2022-03-21": 646
+      "2022-03-21": 667
     }
   }
 ]
