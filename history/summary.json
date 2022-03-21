@@ -76,10 +76,10 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
@@ -87,7 +87,9 @@
     "timeWeek": 402,
     "timeMonth": 384,
     "timeYear": 384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 1
+    }
   },
   {
     "name": "Load balancer Gen-I",
@@ -148,19 +150,19 @@
     "url": "$ACEBLOCK_MOCKUP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-mockup",
-    "status": "down",
-    "uptime": "5.01%",
-    "uptimeDay": "5.01%",
-    "uptimeWeek": "5.01%",
-    "uptimeMonth": "5.01%",
-    "uptimeYear": "5.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.06%",
+    "uptimeDay": "1.06%",
+    "uptimeWeek": "1.06%",
+    "uptimeMonth": "1.06%",
+    "uptimeYear": "1.06%",
+    "time": 425,
+    "timeDay": 425,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 11
     }
   },
   {
@@ -169,18 +171,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-d-hub",
     "status": "down",
-    "uptime": "7.28%",
-    "uptimeDay": "7.28%",
-    "uptimeWeek": "7.28%",
-    "uptimeMonth": "7.28%",
-    "uptimeYear": "7.28%",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 670,
     "timeDay": 670,
     "timeWeek": 670,
     "timeMonth": 670,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 11
     }
   },
   {
@@ -225,18 +227,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-space-client",
     "status": "down",
-    "uptime": "4.76%",
-    "uptimeDay": "4.76%",
-    "uptimeWeek": "4.76%",
-    "uptimeMonth": "4.76%",
-    "uptimeYear": "4.76%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 298,
     "timeDay": 298,
     "timeWeek": 298,
     "timeMonth": 298,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 11
     }
   }
 ]
