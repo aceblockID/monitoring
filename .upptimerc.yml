@@ -30,7 +30,9 @@ sites:
     url: $LB_T4
     port: 443
   - name: AceBlock Mockup
+    check: "tcp-ping"
     url: $ACEBLOCK_MOCKUP
+    port: 443
   - name: AceBlock D-HUB
     url: $ACEBLOCK_HUB
   - name: AceBlock Meet
