@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2719,
-    "timeDay": 3100,
-    "timeWeek": 2771,
-    "timeMonth": 2719,
-    "timeYear": 2719,
+    "time": 2735,
+    "timeDay": 3113,
+    "timeWeek": 2802,
+    "timeMonth": 2735,
+    "timeYear": 2735,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 539,
-    "timeDay": 486,
-    "timeWeek": 606,
+    "timeDay": 480,
+    "timeWeek": 466,
     "timeMonth": 539,
     "timeYear": 539,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 143,
-    "timeWeek": 133,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "time": 130,
+    "timeDay": 144,
+    "timeWeek": 137,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 145,
-    "timeWeek": 136,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "time": 133,
+    "timeDay": 146,
+    "timeWeek": 141,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   },
   {
@@ -76,19 +76,19 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "97.27%",
-    "uptimeDay": "69.10%",
-    "uptimeWeek": "95.59%",
+    "uptimeDay": "69.06%",
+    "uptimeWeek": "95.58%",
     "uptimeMonth": "97.27%",
     "uptimeYear": "97.27%",
     "time": 411,
-    "timeDay": 444,
-    "timeWeek": 424,
+    "timeDay": 443,
+    "timeWeek": 429,
     "timeMonth": 411,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2022-03-21": 446
+      "2022-03-21": 447
     }
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 145,
-    "timeWeek": 133,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "time": 129,
+    "timeDay": 144,
+    "timeWeek": 136,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
+    "time": 129,
     "timeDay": 143,
-    "timeWeek": 132,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "timeWeek": 134,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   },
   {
@@ -174,13 +174,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 573,
-    "timeDay": 573,
-    "timeWeek": 573,
-    "timeMonth": 573,
-    "timeYear": 573,
+    "time": 589,
+    "timeDay": 589,
+    "timeWeek": 589,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2022-03-21": 920
+      "2022-03-21": 935
     }
   },
   {
@@ -194,11 +194,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 914,
-    "timeWeek": 914,
-    "timeMonth": 914,
-    "timeYear": 914,
+    "time": 942,
+    "timeDay": 942,
+    "timeWeek": 942,
+    "timeMonth": 942,
+    "timeYear": 942,
     "dailyMinutesDown": {}
   },
   {
@@ -212,11 +212,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 549,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "time": 618,
+    "timeDay": 618,
+    "timeWeek": 618,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {}
   },
   {
@@ -230,13 +230,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 262,
-    "timeDay": 262,
-    "timeWeek": 262,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "time": 271,
+    "timeDay": 271,
+    "timeWeek": 271,
+    "timeMonth": 271,
+    "timeYear": 271,
     "dailyMinutesDown": {
-      "2022-03-21": 920
+      "2022-03-21": 935
     }
   }
 ]
