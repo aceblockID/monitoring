@@ -4,19 +4,19 @@
     "url": "$ACEBLOCK_HOME",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2601,
-    "timeDay": 1594,
-    "timeWeek": 2584,
-    "timeMonth": 2601,
-    "timeYear": 2601,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2637,
+    "timeDay": 2168,
+    "timeWeek": 2640,
+    "timeMonth": 2637,
+    "timeYear": 2637,
     "dailyMinutesDown": {
-      "2022-03-22": 1
+      "2022-03-22": 12
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
-    "status": "down",
-    "uptime": "95.21%",
-    "uptimeDay": "46.33%",
-    "uptimeWeek": "91.95%",
-    "uptimeMonth": "95.21%",
-    "uptimeYear": "95.21%",
-    "time": 404,
-    "timeDay": 432,
-    "timeWeek": 418,
-    "timeMonth": 404,
-    "timeYear": 404,
+    "status": "up",
+    "uptime": "95.15%",
+    "uptimeDay": "46.37%",
+    "uptimeWeek": "91.84%",
+    "uptimeMonth": "95.15%",
+    "uptimeYear": "95.15%",
+    "time": 401,
+    "timeDay": 424,
+    "timeWeek": 413,
+    "timeMonth": 401,
+    "timeYear": 401,
     "dailyMinutesDown": {
-      "2022-03-22": 366,
+      "2022-03-22": 378,
       "2022-03-21": 446
     }
   },
@@ -183,7 +183,7 @@
     "timeMonth": 589,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2022-03-22": 576,
+      "2022-03-22": 588,
       "2022-03-21": 985
     }
   },
@@ -240,7 +240,7 @@
     "timeMonth": 271,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2022-03-22": 576,
+      "2022-03-22": 588,
       "2022-03-21": 985
     }
   }
