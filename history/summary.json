@@ -25,11 +25,11 @@
     "url": "$ACEBLOCK_SSI_RPC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-ssi-rpc-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "76.53%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "76.38%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.27%",
     "time": 491,
     "timeDay": 427,
@@ -37,7 +37,7 @@
     "timeMonth": 495,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2022-04-11": 338
+      "2022-04-11": 340
     }
   },
   {
@@ -45,10 +45,10 @@
     "url": "$ACEBLOCK_SSI_IPFS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-ssi-ipfs-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "76.60%",
-    "uptimeWeek": "96.66%",
+    "uptimeDay": "76.49%",
+    "uptimeWeek": "96.64%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.27%",
     "time": 133,
@@ -57,7 +57,7 @@
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2022-04-11": 337
+      "2022-04-11": 339
     }
   },
   {
@@ -65,19 +65,19 @@
     "url": "$ACEBLOCK_SSI_DOCS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-documentation",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "77.64%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.31%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "77.57%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.30%",
     "time": 135,
     "timeDay": 128,
     "timeWeek": 147,
     "timeMonth": 136,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2022-04-11": 322
+      "2022-04-11": 323
     }
   },
   {
@@ -85,19 +85,19 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
-    "status": "down",
-    "uptime": "89.06%",
-    "uptimeDay": "62.96%",
-    "uptimeWeek": "52.51%",
-    "uptimeMonth": "88.41%",
-    "uptimeYear": "89.06%",
+    "status": "up",
+    "uptime": "89.04%",
+    "uptimeDay": "62.60%",
+    "uptimeWeek": "52.39%",
+    "uptimeMonth": "88.38%",
+    "uptimeYear": "89.04%",
     "time": 357,
-    "timeDay": 332,
-    "timeWeek": 338,
+    "timeDay": 334,
+    "timeWeek": 339,
     "timeMonth": 357,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2022-04-11": 476,
+      "2022-04-11": 488,
       "2022-04-10": 840,
       "2022-04-09": 713,
       "2022-04-08": 490,
@@ -196,7 +196,7 @@
     "timeMonth": 582,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-04-11": 1244,
+      "2022-04-11": 1258,
       "2022-04-10": 1440,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
@@ -226,11 +226,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-meet",
     "status": "up",
-    "uptime": "96.48%",
+    "uptime": "96.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "96.48%",
+    "uptimeMonth": "96.49%",
+    "uptimeYear": "96.49%",
     "time": 934,
     "timeDay": 787,
     "timeWeek": 1019,
@@ -279,7 +279,7 @@
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-04-11": 1244,
+      "2022-04-11": 1258,
       "2022-04-10": 1440,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
