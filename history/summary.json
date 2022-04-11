@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-ssi-rpc-endpoint",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "89.77%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.65%",
+    "uptimeDay": "88.73%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.65%",
     "time": 495,
     "timeDay": 462,
     "timeWeek": 512,
     "timeMonth": 499,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2022-04-11": 148
+      "2022-04-11": 163
     }
   },
   {
@@ -46,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-ssi-ipfs-endpoint",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "89.84%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.65%",
+    "uptimeDay": "88.80%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.65%",
     "time": 133,
     "timeDay": 135,
     "timeWeek": 150,
     "timeMonth": 134,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2022-04-11": 146
+      "2022-04-11": 161
     }
   },
   {
@@ -66,18 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-documentation",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "90.89%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.68%",
+    "uptimeDay": "89.85%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 136,
     "timeDay": 136,
     "timeWeek": 152,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2022-04-11": 132
+      "2022-04-11": 147
     }
   },
   {
@@ -85,26 +85,26 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
-    "status": "up",
-    "uptime": "88.83%",
-    "uptimeDay": "65.10%",
-    "uptimeWeek": "53.22%",
-    "uptimeMonth": "88.22%",
-    "uptimeYear": "88.83%",
+    "status": "down",
+    "uptime": "88.89%",
+    "uptimeDay": "66.07%",
+    "uptimeWeek": "53.36%",
+    "uptimeMonth": "88.27%",
+    "uptimeYear": "88.89%",
     "time": 357,
     "timeDay": 335,
     "timeWeek": 338,
     "timeMonth": 357,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2022-04-11": 329,
+      "2022-04-11": 330,
       "2022-04-10": 840,
       "2022-04-09": 713,
       "2022-04-08": 490,
       "2022-04-07": 668,
       "2022-04-06": 766,
       "2022-04-05": 742,
-      "2022-04-04": 609
+      "2022-04-04": 586
     }
   },
   {
@@ -196,7 +196,7 @@
     "timeMonth": 582,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-04-11": 1053,
+      "2022-04-11": 1068,
       "2022-04-10": 1440,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
@@ -279,7 +279,7 @@
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-04-11": 1053,
+      "2022-04-11": 1068,
       "2022-04-10": 1440,
       "2022-04-09": 1440,
       "2022-04-08": 1440,
