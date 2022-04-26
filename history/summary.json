@@ -89,19 +89,19 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
-    "status": "up",
-    "uptime": "92.04%",
-    "uptimeDay": "43.06%",
+    "status": "down",
+    "uptime": "92.12%",
+    "uptimeDay": "43.24%",
     "uptimeWeek": "51.87%",
-    "uptimeMonth": "87.73%",
-    "uptimeYear": "92.04%",
+    "uptimeMonth": "87.86%",
+    "uptimeYear": "92.12%",
     "time": 352,
     "timeDay": 342,
     "timeWeek": 351,
     "timeMonth": 347,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2022-04-26": 422,
+      "2022-04-26": 423,
       "2022-04-25": 765,
       "2022-04-24": 733,
       "2022-04-23": 552,
@@ -109,7 +109,7 @@
       "2022-04-21": 600,
       "2022-04-20": 866,
       "2022-04-19": 677,
-      "2022-04-18": 154
+      "2022-04-18": 99
     }
   },
   {
@@ -201,7 +201,7 @@
     "timeMonth": 567,
     "timeYear": 572,
     "dailyMinutesDown": {
-      "2022-04-26": 699,
+      "2022-04-26": 710,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
@@ -299,7 +299,7 @@
     "timeMonth": 268,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-04-26": 700,
+      "2022-04-26": 710,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
