@@ -29,10 +29,10 @@
     "url": "$ACEBLOCK_SSI_RPC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-ssi-rpc-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.51%",
     "time": 468,
@@ -41,6 +41,7 @@
     "timeMonth": 447,
     "timeYear": 468,
     "dailyMinutesDown": {
+      "2022-05-02": 1,
       "2022-04-11": 376
     }
   },
@@ -49,11 +50,11 @@
     "url": "$ACEBLOCK_SSI_IPFS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-ssi-ipfs-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.51%",
     "time": 131,
     "timeDay": 110,
@@ -61,6 +62,7 @@
     "timeMonth": 133,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2022-05-02": 1,
       "2022-04-11": 374
     }
   },
@@ -69,10 +71,10 @@
     "url": "$ACEBLOCK_SSI_DOCS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.53%",
     "time": 133,
@@ -81,6 +83,7 @@
     "timeMonth": 135,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2022-05-02": 1,
       "2022-04-11": 359
     }
   },
@@ -90,25 +93,25 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
     "status": "up",
-    "uptime": "92.22%",
-    "uptimeDay": "28.78%",
-    "uptimeWeek": "44.28%",
-    "uptimeMonth": "86.39%",
-    "uptimeYear": "92.22%",
+    "uptime": "92.21%",
+    "uptimeDay": "31.29%",
+    "uptimeWeek": "44.79%",
+    "uptimeMonth": "86.35%",
+    "uptimeYear": "92.21%",
     "time": 356,
-    "timeDay": 359,
-    "timeWeek": 373,
+    "timeDay": 354,
+    "timeWeek": 374,
     "timeMonth": 349,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2022-05-02": 914,
+      "2022-05-02": 902,
       "2022-05-01": 687,
       "2022-04-30": 697,
       "2022-04-29": 816,
       "2022-04-28": 879,
       "2022-04-27": 610,
       "2022-04-26": 965,
-      "2022-04-25": 397
+      "2022-04-25": 426
     }
   },
   {
@@ -200,7 +203,7 @@
     "timeMonth": 574,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2022-05-02": 1252,
+      "2022-05-02": 1328,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
@@ -304,7 +307,7 @@
     "timeMonth": 269,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2022-05-02": 1252,
+      "2022-05-02": 1328,
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
