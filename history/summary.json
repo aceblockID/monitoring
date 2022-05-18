@@ -95,19 +95,19 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
-    "status": "up",
-    "uptime": "94.32%",
-    "uptimeDay": "41.13%",
-    "uptimeWeek": "48.74%",
-    "uptimeMonth": "87.12%",
-    "uptimeYear": "94.32%",
+    "status": "down",
+    "uptime": "94.34%",
+    "uptimeDay": "41.61%",
+    "uptimeWeek": "49.01%",
+    "uptimeMonth": "87.15%",
+    "uptimeYear": "94.34%",
     "time": 353,
-    "timeDay": 366,
+    "timeDay": 369,
     "timeWeek": 345,
     "timeMonth": 354,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-05-18": 633,
+      "2022-05-18": 634,
       "2022-05-17": 546,
       "2022-05-16": 590,
       "2022-05-15": 953,
@@ -115,7 +115,7 @@
       "2022-05-13": 550,
       "2022-05-12": 781,
       "2022-05-11": 718,
-      "2022-05-10": 59
+      "2022-05-10": 43
     }
   },
   {
@@ -124,18 +124,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "load-balancer-gen-i",
     "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "43.63%",
-    "uptimeWeek": "91.95%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.15%",
+    "uptimeDay": "41.57%",
+    "uptimeWeek": "91.65%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "99.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-18": 812
+      "2022-05-18": 841
     }
   },
   {
@@ -180,18 +180,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-mockup",
     "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "43.63%",
-    "uptimeWeek": "91.95%",
-    "uptimeMonth": "98.15%",
-    "uptimeYear": "99.03%",
+    "uptime": "99.00%",
+    "uptimeDay": "41.58%",
+    "uptimeWeek": "91.65%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "99.00%",
     "time": 425,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2022-05-18": 812
+      "2022-05-18": 841
     }
   },
   {
@@ -211,7 +211,7 @@
     "timeMonth": 592,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2022-05-18": 898,
+      "2022-05-18": 928,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
@@ -335,7 +335,7 @@
     "timeMonth": 277,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-05-18": 898,
+      "2022-05-18": 928,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
