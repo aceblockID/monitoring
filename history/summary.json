@@ -95,27 +95,26 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
-    "status": "up",
-    "uptime": "94.32%",
-    "uptimeDay": "41.31%",
-    "uptimeWeek": "48.82%",
-    "uptimeMonth": "87.10%",
-    "uptimeYear": "94.32%",
+    "status": "down",
+    "uptime": "94.53%",
+    "uptimeDay": "44.94%",
+    "uptimeWeek": "48.83%",
+    "uptimeMonth": "87.57%",
+    "uptimeYear": "94.53%",
     "time": 353,
     "timeDay": 370,
     "timeWeek": 346,
     "timeMonth": 354,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-05-18": 654,
+      "2022-05-18": 655,
       "2022-05-17": 546,
       "2022-05-16": 590,
       "2022-05-15": 953,
       "2022-05-14": 818,
       "2022-05-13": 550,
       "2022-05-12": 781,
-      "2022-05-11": 718,
-      "2022-05-10": 43
+      "2022-05-11": 555
     }
   },
   {
@@ -124,18 +123,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "load-balancer-gen-i",
     "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "40.11%",
-    "uptimeWeek": "91.44%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.08%",
+    "uptimeDay": "36.38%",
+    "uptimeWeek": "90.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "99.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-18": 862
+      "2022-05-18": 916
     }
   },
   {
@@ -180,18 +179,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-mockup",
     "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "40.11%",
-    "uptimeWeek": "91.44%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "98.97%",
+    "uptime": "98.91%",
+    "uptimeDay": "36.38%",
+    "uptimeWeek": "90.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "98.91%",
     "time": 425,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2022-05-18": 862
+      "2022-05-18": 916
     }
   },
   {
@@ -211,7 +210,7 @@
     "timeMonth": 592,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2022-05-18": 949,
+      "2022-05-18": 1003,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
@@ -301,11 +300,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-redmine",
     "status": "up",
-    "uptime": "97.74%",
+    "uptime": "97.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.98%",
-    "uptimeYear": "97.74%",
+    "uptimeYear": "97.75%",
     "time": 581,
     "timeDay": 436,
     "timeWeek": 496,
@@ -335,7 +334,7 @@
     "timeMonth": 277,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2022-05-18": 949,
+      "2022-05-18": 1003,
       "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1440,
