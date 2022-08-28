@@ -105,12 +105,12 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ace-block-swagger-ui",
-    "status": "up",
-    "uptime": "97.57%",
-    "uptimeDay": "50.33%",
+    "status": "down",
+    "uptime": "97.60%",
+    "uptimeDay": "50.31%",
     "uptimeWeek": "53.36%",
-    "uptimeMonth": "86.35%",
-    "uptimeYear": "97.57%",
+    "uptimeMonth": "86.48%",
+    "uptimeYear": "97.60%",
     "time": 370,
     "timeDay": 337,
     "timeWeek": 364,
@@ -126,7 +126,7 @@
       "2022-08-22": 697,
       "2022-08-21": 731,
       "2022-08-20": 570,
-      "2022-08-19": 60
+      "2022-08-19": 0
     }
   },
   {
