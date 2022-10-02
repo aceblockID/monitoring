@@ -2,7 +2,7 @@
   {
     "name": "AceBlock Homepage",
     "url": "$ACEBLOCK_HOME",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-homepage",
     "status": "up",
     "uptime": "99.87%",
@@ -35,7 +35,7 @@
   {
     "name": "AceBlock SSI - RPC endpoint",
     "url": "$ACEBLOCK_SSI_RPC",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-ssi-rpc-endpoint",
     "status": "up",
     "uptime": "99.66%",
@@ -59,7 +59,7 @@
   {
     "name": "AceBlock SSI - IPFS endpoint",
     "url": "$ACEBLOCK_SSI_IPFS",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-ssi-ipfs-endpoint",
     "status": "up",
     "uptime": "99.67%",
@@ -82,7 +82,7 @@
   {
     "name": "AceBlock Documentation",
     "url": "$ACEBLOCK_SSI_DOCS",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-documentation",
     "status": "up",
     "uptime": "99.66%",
@@ -106,7 +106,7 @@
   {
     "name": "AceBlock Swagger UI",
     "url": "$ACEBLOCK_SWAGGER_UI",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-swagger-ui",
     "status": "up",
     "uptime": "97.40%",
@@ -136,7 +136,7 @@
   {
     "name": "Load balancer Gen-I",
     "url": "$LB_GEN_I",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "load-balancer-gen-i",
     "status": "up",
     "uptime": "92.65%",
@@ -174,7 +174,7 @@
   {
     "name": "Load balancer SSI",
     "url": "$LB_SSI",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "load-balancer-ssi",
     "status": "up",
     "uptime": "99.99%",
@@ -194,7 +194,7 @@
   {
     "name": "Load balancer T4",
     "url": "$LB_T4",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "load-balancer-t4",
     "status": "up",
     "uptime": "99.98%",
@@ -215,7 +215,7 @@
   {
     "name": "AceBlock Mockup",
     "url": "$ACEBLOCK_MOCKUP",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-mockup",
     "status": "up",
     "uptime": "93.51%",
@@ -249,7 +249,7 @@
   {
     "name": "AceBlock D-HUB",
     "url": "$ACEBLOCK_HUB",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-d-hub",
     "status": "up",
     "uptime": "63.98%",
@@ -340,7 +340,7 @@
   {
     "name": "AceBlock Meet",
     "url": "$ACEBLOCK_MEET",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-meet",
     "status": "up",
     "uptime": "97.90%",
@@ -368,7 +368,7 @@
   {
     "name": "AceBlock Redmine",
     "url": "$ACEBLOCK_REDMINE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-redmine",
     "status": "up",
     "uptime": "96.25%",
@@ -403,7 +403,7 @@
   {
     "name": "AceBlock Space Client",
     "url": "$ACEBLOCK_SPACE_CLIENT",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-space-client",
     "status": "down",
     "uptime": "40.28%",
@@ -417,7 +417,7 @@
     "timeMonth": 309,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2022-10-02": 43,
+      "2022-10-02": 47,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
