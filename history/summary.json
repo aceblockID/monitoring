@@ -111,12 +111,12 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-swagger-ui",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "45.27%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "46.08%",
     "uptimeWeek": "49.28%",
-    "uptimeMonth": "87.39%",
-    "uptimeYear": "98.49%",
+    "uptimeMonth": "87.45%",
+    "uptimeYear": "98.50%",
     "time": 371,
     "timeDay": 342,
     "timeWeek": 368,
@@ -131,7 +131,7 @@
       "2022-11-14": 737,
       "2022-11-13": 862,
       "2022-11-12": 588,
-      "2022-11-11": 177
+      "2022-11-11": 149
     }
   },
   {
@@ -256,7 +256,7 @@
     "uptime": "59.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.68%",
+    "uptimeMonth": "33.71%",
     "uptimeYear": "59.55%",
     "time": 601,
     "timeDay": 717,
@@ -447,7 +447,7 @@
     "timeMonth": 296,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2022-11-19": 446,
+      "2022-11-19": 458,
       "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
