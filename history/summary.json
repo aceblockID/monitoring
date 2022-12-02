@@ -113,7 +113,7 @@
     "slug": "ace-block-swagger-ui",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "40.77%",
+    "uptimeDay": "40.88%",
     "uptimeWeek": "51.64%",
     "uptimeMonth": "88.78%",
     "uptimeYear": "98.72%",
@@ -447,7 +447,7 @@
     "timeMonth": 293,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2022-12-02": 27,
+      "2022-12-02": 29,
       "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
