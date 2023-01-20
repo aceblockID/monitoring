@@ -147,15 +147,15 @@
     "url": "$ACEBLOCK_SWAGGER_UI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-swagger-ui",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "54.50%",
-    "uptimeWeek": "54.74%",
-    "uptimeMonth": "89.58%",
-    "uptimeYear": "99.00%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "57.14%",
+    "uptimeWeek": "56.03%",
+    "uptimeMonth": "89.88%",
+    "uptimeYear": "99.02%",
     "time": 374,
     "timeDay": 379,
-    "timeWeek": 379,
+    "timeWeek": 378,
     "timeMonth": 383,
     "timeYear": 374,
     "dailyMinutesDown": {
@@ -166,7 +166,7 @@
       "2023-01-16": 753,
       "2023-01-15": 539,
       "2023-01-14": 658,
-      "2023-01-13": 357
+      "2023-01-13": 226
     }
   },
   {
@@ -304,7 +304,7 @@
     "timeMonth": 0,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2023-01-20": 183,
+      "2023-01-20": 221,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
@@ -485,11 +485,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-redmine",
     "status": "up",
-    "uptime": "97.19%",
+    "uptime": "97.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.19%",
+    "uptimeYear": "97.20%",
     "time": 549,
     "timeDay": 574,
     "timeWeek": 581,
@@ -534,7 +534,7 @@
     "timeMonth": 288,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2023-01-20": 183,
+      "2023-01-20": 221,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
