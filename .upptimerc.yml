@@ -47,10 +47,12 @@ sites:
     url: $MNID_WALL_ET
   - name: MNID Homepage
     url: $MNID_HOME
+  - name: MNID NFT
+    url: $MNID_NFT    
   - name: Bluemark Homepage
     url: $B_MARK
-  
 
+   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
