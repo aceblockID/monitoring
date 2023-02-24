@@ -41,6 +41,10 @@ sites:
     url: $ACEBLOCK_REDMINE
   - name: AceBlock Space Client
     url: $ACEBLOCK_SPACE_CLIENT
+  - name: MNID Issuer
+    url: $MNID_ISSUER
+  - name: MNID Wallet
+    url: $MNID_WALL_ET
 
 
 status-website:
