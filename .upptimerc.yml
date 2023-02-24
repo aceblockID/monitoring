@@ -45,6 +45,11 @@ sites:
     url: $MNID_ISSUER
   - name: MNID Wallet
     url: $MNID_WALL_ET
+  - name: MNID Homepage
+    url: $MNID_HOME
+  - name: Bluemark Homepage
+    url: $B_MARK
+  
 
 
 status-website:
