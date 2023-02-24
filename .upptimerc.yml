@@ -15,8 +15,8 @@ sites:
     url: $ACEBLOCK_SSI_IPFS
   - name: AceBlock Documentation
     url: $ACEBLOCK_SSI_DOCS
-  - name: AceBlock Swagger UI
-    url: $ACEBLOCK_SWAGGER_UI
+  # - name: AceBlock Swagger UI
+  #   url: $ACEBLOCK_SWAGGER_UI
   - name: Load balancer Gen-I
     check: "tcp-ping"
     url: $LB_GEN_I
