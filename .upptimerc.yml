@@ -17,6 +17,8 @@ sites:
     url: $ACEBLOCK_SSI_DOCS
   # - name: AceBlock Swagger UI
   #   url: $ACEBLOCK_SWAGGER_UI
+  - name: Aceblock SSI registration
+    url: $ACEBLOCK_SSI_REGISTRATION
   - name: Load balancer Gen-I
     check: "tcp-ping"
     url: $LB_GEN_I
