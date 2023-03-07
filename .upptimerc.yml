@@ -18,7 +18,9 @@ sites:
   # - name: AceBlock Swagger UI
   #   url: $ACEBLOCK_SWAGGER_UI
   - name: Aceblock SSI registration
+    check: "tcp-ping"
     url: $ACEBLOCK_SSI_REGISTRATION
+    port: 443
   - name: Load balancer Gen-I
     check: "tcp-ping"
     url: $LB_GEN_I
