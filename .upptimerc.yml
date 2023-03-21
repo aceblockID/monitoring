@@ -50,7 +50,9 @@ sites:
   - name: MNID Homepage
     url: $MNID_HOME
   - name: MNID NFT
-    url: $MNID_NFT    
+    url: $MNID_NFT
+  - name: MNID Portfolio
+    url: $MNID_PORTFOLIO
   - name: Bluemark Homepage
     url: $B_MARK
 
