@@ -1,7 +1,7 @@
 url: $ACEBLOCK_SSI_RPC
-status: down
-code: 503
-responseTime: 12260
-lastUpdated: 2023-06-13T08:16:48.741Z
+status: up
+code: 200
+responseTime: 449
+lastUpdated: 2023-06-13T08:42:05.746Z
 startTime: Thu Mar 10 2022 15:17:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
