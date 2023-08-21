@@ -53,6 +53,8 @@ sites:
     url: $MNID_NFT
   - name: MNID Portfolio
     url: $MNID_PORTFOLIO
+  - name: MNID Test DPP
+    url: $MNID_TEST_DPP 
   - name: Bluemark Homepage
     url: $B_MARK
 
