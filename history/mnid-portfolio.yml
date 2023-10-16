@@ -1,7 +1,7 @@
 url: $MNID_PORTFOLIO
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-16T10:36:37.742Z
+status: up
+code: 200
+responseTime: 321
+lastUpdated: 2023-10-16T10:48:12.699Z
 startTime: 2023-03-21T15:47:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
