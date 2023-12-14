@@ -1,7 +1,7 @@
 url: $ACEBLOCK_SPACE_CLIENT
-status: down
-code: 502
-responseTime: 401
-lastUpdated: 2023-12-14T10:24:09.248Z
+status: up
+code: 200
+responseTime: 237
+lastUpdated: 2023-12-14T11:52:46.393Z
 startTime: 2022-03-21T07:34:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
