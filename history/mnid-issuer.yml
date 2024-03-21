@@ -1,7 +1,7 @@
 url: $MNID_ISSUER
-status: down
-code: 503
-responseTime: 3386
-lastUpdated: 2024-03-21T11:35:13.984Z
+status: up
+code: 200
+responseTime: 338
+lastUpdated: 2024-03-21T11:58:22.678Z
 startTime: 2023-02-24T08:09:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
