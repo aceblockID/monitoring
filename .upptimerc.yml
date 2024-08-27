@@ -23,7 +23,7 @@ sites:
     check: "tcp-ping"
     url: $LB_GEN_I
     port: 443
-    - name: ACEBLOCK GEN-I - RPC endpoint
+  - name: Aceblock GEN-I - RPC endpoint
     method: POST
     url: $ACEBLOCK_GENI_RPC
     headers:
