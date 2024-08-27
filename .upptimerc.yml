@@ -32,6 +32,7 @@ sites:
   - name: ACE2 GEN-I - RPC endpoint
     method: POST
     url: $ACE2_GENI_RPC
+    port: 8081
     headers:
       - "Content-Type: application/json"
     body: '{ "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": 0 }'
