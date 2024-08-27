@@ -23,6 +23,30 @@ sites:
     check: "tcp-ping"
     url: $LB_GEN_I
     port: 443
+    - name: ACEBLOCK GEN-I - RPC endpoint
+    method: POST
+    url: $ACEBLOCK_GENI_RPC
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": 0 }'
+  - name: ACE2 GEN-I - RPC endpoint
+    method: POST
+    url: $ACE2_GENI_RPC
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": 0 }'
+  - name: ACE5 GEN-I - RPC endpoint
+    method: POST
+    url: $ACE5_GENI_RPC
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": 0 }'
+  - name: ACE7 GEN-I - RPC endpoint
+    method: POST
+    url: $ACE7_GENI_RPC
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "jsonrpc": "2.0", "method": "eth_blockNumber", "params": [], "id": 0 }'
   - name: Load balancer SSI
     check: "tcp-ping"
     url: $LB_SSI
