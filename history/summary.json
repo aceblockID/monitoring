@@ -180,18 +180,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-2-gen-i-rpc-endpoint",
     "status": "down",
-    "uptime": "1.13%",
-    "uptimeDay": "1.13%",
-    "uptimeWeek": "1.13%",
-    "uptimeMonth": "1.13%",
-    "uptimeYear": "1.13%",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-27": 0
+      "2024-08-27": 1
     }
   },
   {
@@ -200,18 +200,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-5-gen-i-rpc-endpoint",
     "status": "down",
-    "uptime": "1.60%",
-    "uptimeDay": "1.60%",
-    "uptimeWeek": "1.60%",
-    "uptimeMonth": "1.60%",
-    "uptimeYear": "1.60%",
+    "uptime": "0.58%",
+    "uptimeDay": "0.58%",
+    "uptimeWeek": "0.58%",
+    "uptimeMonth": "0.58%",
+    "uptimeYear": "0.58%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-27": 0
+      "2024-08-27": 1
     }
   },
   {
@@ -220,18 +220,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-7-gen-i-rpc-endpoint",
     "status": "down",
-    "uptime": "3.70%",
-    "uptimeDay": "3.70%",
-    "uptimeWeek": "3.70%",
-    "uptimeMonth": "3.70%",
-    "uptimeYear": "3.70%",
+    "uptime": "1.30%",
+    "uptimeDay": "1.30%",
+    "uptimeWeek": "1.30%",
+    "uptimeMonth": "1.30%",
+    "uptimeYear": "1.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-27": 0
+      "2024-08-27": 1
     }
   },
   {
@@ -396,7 +396,7 @@
     "timeMonth": 320,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-08-27": 801,
+      "2024-08-27": 802,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
