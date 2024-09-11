@@ -1,7 +1,7 @@
-url: $MNID_TEST_API
+url: $MNID_MDL_APP
 status: up
 code: 200
-responseTime: 811
-lastUpdated: 2024-09-11T08:48:18.778Z
+responseTime: 379
+lastUpdated: 2024-09-11T08:52:17.202Z
 startTime: 2023-09-22T10:11:23.633Z
 generator: Upptime <https://github.com/upptime/upptime>
