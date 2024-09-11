@@ -65,6 +65,8 @@ sites:
     url: $MNID_MDL_VERIFIER
   - name: MNID MDL App
     url: $MNID_MDL_APP
+  - name: MNID MDL App
+    url: $MNID_TEST_API
   - name: Bluemark Homepage
     url: $B_MARK
 
