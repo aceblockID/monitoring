@@ -1,7 +1,7 @@
 url: $MNID_HOME
-status: down
-code: 401
-responseTime: 606
-lastUpdated: 2024-09-15T08:13:16.984Z
+status: up
+code: 200
+responseTime: 618
+lastUpdated: 2024-09-15T08:34:19.353Z
 startTime: 2023-02-24T08:24:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
