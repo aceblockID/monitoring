@@ -334,7 +334,7 @@
     "uptime": "60.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "29.82%",
+    "uptimeMonth": "29.85%",
     "uptimeYear": "74.05%",
     "time": 302,
     "timeDay": 383,
@@ -497,19 +497,19 @@
     "url": "$MNID_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mnid-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "54.59%",
+    "uptimeDay": "55.36%",
     "uptimeWeek": "64.20%",
-    "uptimeMonth": "90.10%",
+    "uptimeMonth": "90.19%",
     "uptimeYear": "99.18%",
-    "time": 1424,
+    "time": 1423,
     "timeDay": 452,
     "timeWeek": 495,
     "timeMonth": 505,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2024-09-20": 596,
+      "2024-09-20": 597,
       "2024-09-19": 679,
       "2024-09-18": 965,
       "2024-09-17": 332,
@@ -517,7 +517,7 @@
       "2024-09-15": 268,
       "2024-09-14": 444,
       "2024-09-13": 474,
-      "2024-09-12": 253
+      "2024-09-12": 214
     }
   },
   {
