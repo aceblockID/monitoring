@@ -1,7 +1,7 @@
 url: $MNID_TEST_API
 status: down
-code: 503
-responseTime: 3551
-lastUpdated: 2024-10-24T23:10:51.561Z
+code: 400
+responseTime: 621
+lastUpdated: 2024-10-25T23:11:35.459Z
 startTime: 2024-09-11T08:52:17.383Z
 generator: Upptime <https://github.com/upptime/upptime>
