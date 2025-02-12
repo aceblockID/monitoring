@@ -67,8 +67,8 @@ sites:
     url: $MNID_MDL_APP
   - name: MNID Test API
     url: $MNID_TEST_API
-  - name: Bluemark Homepage
-    url: $B_MARK
+  #- name: Bluemark Homepage
+  #  url: $B_MARK
 
    
 
