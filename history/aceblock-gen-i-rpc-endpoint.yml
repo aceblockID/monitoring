@@ -1,7 +1,7 @@
 url: $ACEBLOCK_GENI_RPC
-status: down
-code: 503
-responseTime: 20467
-lastUpdated: 2025-03-09T17:32:50.915Z
+status: up
+code: 200
+responseTime: 591
+lastUpdated: 2025-03-09T17:43:34.111Z
 startTime: 2024-08-27T13:20:28.547Z
 generator: Upptime <https://github.com/upptime/upptime>
