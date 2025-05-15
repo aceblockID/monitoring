@@ -1,7 +1,7 @@
 url: $ACEBLOCK_SSI_REGISTRATION
-status: down
-code: 503
-responseTime: 13872
-lastUpdated: 2025-05-14T23:10:37.128Z
+status: up
+code: 200
+responseTime: 207
+lastUpdated: 2025-05-15T10:48:28.426Z
 startTime: 2023-03-07T14:09:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
