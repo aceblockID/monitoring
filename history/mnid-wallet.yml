@@ -1,7 +1,7 @@
 url: $MNID_WALL_ET
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-07T08:57:05.189Z
+status: up
+code: 200
+responseTime: 369
+lastUpdated: 2025-07-07T09:30:46.663Z
 startTime: 2023-02-24T08:09:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
