@@ -54,14 +54,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.89%",
+    "uptimeYear": "73.87%",
     "time": 472,
     "timeDay": 440,
     "timeWeek": 468,
     "timeMonth": 491,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2025-09-01": 1403,
+      "2025-09-02": 40,
+      "2025-09-01": 1440,
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
@@ -283,7 +284,7 @@
     "uptimeYear": "99.97%",
     "time": 134,
     "timeDay": 113,
-    "timeWeek": 135,
+    "timeWeek": 129,
     "timeMonth": 139,
     "timeYear": 134,
     "dailyMinutesDown": {
@@ -305,7 +306,7 @@
     "uptimeYear": "96.27%",
     "time": 701,
     "timeDay": 386,
-    "timeWeek": 510,
+    "timeWeek": 499,
     "timeMonth": 520,
     "timeYear": 706,
     "dailyMinutesDown": {
@@ -384,7 +385,7 @@
     "uptimeYear": "99.91%",
     "time": 137,
     "timeDay": 113,
-    "timeWeek": 136,
+    "timeWeek": 130,
     "timeMonth": 140,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -401,18 +402,16 @@
     "slug": "ace-block-d-hub",
     "status": "up",
     "uptime": "87.45%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
     "timeDay": 702,
     "timeWeek": 640,
     "timeMonth": 645,
     "timeYear": 614,
-    "dailyMinutesDown": {
-      "2025-09-01": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AceBlock Meet",
@@ -427,7 +426,7 @@
     "uptimeYear": "99.62%",
     "time": 1036,
     "timeDay": 986,
-    "timeWeek": 1586,
+    "timeWeek": 1625,
     "timeMonth": 1208,
     "timeYear": 1039,
     "dailyMinutesDown": {
@@ -453,7 +452,7 @@
     "uptimeYear": "99.69%",
     "time": 718,
     "timeDay": 561,
-    "timeWeek": 3293,
+    "timeWeek": 1283,
     "timeMonth": 1422,
     "timeYear": 770,
     "dailyMinutesDown": {
@@ -477,7 +476,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.43%",
+    "uptimeYear": "97.44%",
     "time": 313,
     "timeDay": 314,
     "timeWeek": 867,
@@ -492,8 +491,7 @@
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
-      "2024-09-03": 1440,
-      "2024-09-02": 1440
+      "2024-09-03": 1440
     }
   },
   {
@@ -614,10 +612,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mnid-test-dpp",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 528,
     "timeDay": 473,
@@ -625,7 +623,6 @@
     "timeMonth": 494,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-09-01": 11,
       "2025-05-16": 553,
       "2025-05-15": 100,
       "2025-02-13": 15,
@@ -660,10 +657,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mnid-mdl-app",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 481,
     "timeDay": 490,
@@ -671,7 +668,6 @@
     "timeMonth": 481,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2025-09-01": 11,
       "2025-05-16": 553,
       "2025-05-15": 99,
       "2025-02-04": 67,
@@ -691,7 +687,7 @@
     "uptimeYear": "90.28%",
     "time": 604,
     "timeDay": 589,
-    "timeWeek": 637,
+    "timeWeek": 615,
     "timeMonth": 626,
     "timeYear": 604,
     "dailyMinutesDown": {
