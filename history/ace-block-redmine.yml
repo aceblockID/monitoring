@@ -1,7 +1,7 @@
 url: $ACEBLOCK_REDMINE
-status: down
-code: 522
-responseTime: 19462
-lastUpdated: 2025-10-13T11:51:42.025Z
+status: up
+code: 200
+responseTime: 887
+lastUpdated: 2025-10-13T11:58:48.052Z
 startTime: 2022-03-21T07:34:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
