@@ -43,12 +43,6 @@ sites:
     port: 443
   - name: AceBlock D-HUB
     url: $ACEBLOCK_HUB
-  - name: AceBlock Meet
-    url: $ACEBLOCK_MEET
-  - name: AceBlock Redmine
-    url: $ACEBLOCK_REDMINE
-  - name: AceBlock Space Client
-    url: $ACEBLOCK_SPACE_CLIENT
   - name: MNID Issuer
     url: $MNID_ISSUER
   - name: MNID Wallet
