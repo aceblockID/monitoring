@@ -63,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ace-block-ssi-rpc-endpoint",
     "status": "up",
-    "uptime": "69.51%",
+    "uptime": "69.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.24%",
-    "uptimeYear": "5.35%",
+    "uptimeMonth": "65.11%",
+    "uptimeYear": "5.59%",
     "time": 470,
     "timeDay": 452,
     "timeWeek": 478,
@@ -481,16 +481,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "aceblock-ssi-registration",
     "status": "down",
-    "uptime": "92.03%",
+    "uptime": "91.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.52%",
+    "uptimeYear": "76.28%",
     "time": 4378,
     "timeDay": 20417,
     "timeWeek": 20458,
     "timeMonth": 20463,
-    "timeYear": 5559,
+    "timeYear": 5574,
     "dailyMinutesDown": {
       "2025-12-09": 325,
       "2026-04-19": 867,
@@ -502,7 +502,7 @@
       "2026-06-01": 310,
       "2026-06-18": 654,
       "2026-06-17": 57,
-      "2026-11-08": 171,
+      "2026-11-08": 1431,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -625,7 +625,7 @@
     "timeDay": 500,
     "timeWeek": 508,
     "timeMonth": 512,
-    "timeYear": 534,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2025-12-09": 323,
       "2026-04-19": 867,
@@ -726,10 +726,10 @@
     "url": "$MNID_ISSUER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mnid-issuer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 452,
@@ -741,7 +741,8 @@
       "2025-11-13": 463,
       "2025-11-12": 155,
       "2026-04-21": 707,
-      "2026-04-20": 587
+      "2026-04-20": 587,
+      "2026-11-08": 2
     }
   },
   {
@@ -750,20 +751,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mnid-wallet",
     "status": "down",
-    "uptime": "80.59%",
+    "uptime": "80.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.40%",
+    "uptimeYear": "33.16%",
     "time": 1977,
     "timeDay": 3472,
     "timeWeek": 3461,
     "timeMonth": 3445,
-    "timeYear": 2431,
+    "timeYear": 2436,
     "dailyMinutesDown": {
       "2025-11-13": 474,
       "2025-11-12": 155,
-      "2026-11-08": 172,
+      "2026-11-08": 1431,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
@@ -1014,10 +1015,10 @@
     "url": "$MNID_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mnid-homepage",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 492,
@@ -1027,7 +1028,8 @@
     "timeYear": 485,
     "dailyMinutesDown": {
       "2025-11-13": 474,
-      "2025-11-12": 155
+      "2025-11-12": 155,
+      "2026-11-08": 1
     }
   },
   {
@@ -1045,7 +1047,7 @@
     "timeDay": 414,
     "timeWeek": 468,
     "timeMonth": 452,
-    "timeYear": 430,
+    "timeYear": 429,
     "dailyMinutesDown": {}
   },
   {
@@ -1063,7 +1065,7 @@
     "timeDay": 426,
     "timeWeek": 456,
     "timeMonth": 465,
-    "timeYear": 425,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2025-11-13": 508,
       "2025-11-12": 155
@@ -1075,7 +1077,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mnid-test-dpp",
     "status": "up",
-    "uptime": "85.42%",
+    "uptime": "85.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1084,7 +1086,7 @@
     "timeDay": 430,
     "timeWeek": 557,
     "timeMonth": 499,
-    "timeYear": 1851,
+    "timeYear": 1855,
     "dailyMinutesDown": {
       "2025-11-13": 463,
       "2025-11-12": 155,
@@ -1275,7 +1277,7 @@
     "timeDay": 381,
     "timeWeek": 439,
     "timeMonth": 438,
-    "timeYear": 418,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2025-11-13": 474,
       "2025-11-12": 154
@@ -1308,17 +1310,17 @@
     "url": "$MNID_TEST_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mnid-test-api",
-    "status": "up",
-    "uptime": "92.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "92.81%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.06%",
-    "time": 830,
+    "time": 831,
     "timeDay": 927,
     "timeWeek": 937,
     "timeMonth": 923,
-    "timeYear": 908,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2025-11-13": 508,
       "2025-11-12": 154,
@@ -1344,7 +1346,8 @@
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
-      "2026-09-02": 865
+      "2026-09-02": 865,
+      "2026-11-08": 1
     }
   }
 ]
